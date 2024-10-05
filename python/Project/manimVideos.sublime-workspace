@@ -1,0 +1,1648 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"ifn",
+				"ifndef"
+			],
+			[
+				"glfwget",
+				"glfwGetKey"
+			],
+			[
+				"glView",
+				"glViewport"
+			],
+			[
+				"Inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"GLFW_OPENFL",
+				"GLFW_OPENGL_PROFILE"
+			],
+			[
+				"GLFW_CONTE",
+				"GLFW_CONTEXT_VERSION_MAJOR"
+			],
+			[
+				"g",
+				"glfwCreateWindow"
+			],
+			[
+				"gl",
+				"GLFW/"
+			],
+			[
+				"se",
+				"\"shell_cmd\""
+			],
+			[
+				"cm",
+				"\"cmd\""
+			],
+			[
+				"targ",
+				"target"
+			],
+			[
+				"target",
+				"\"target\""
+			],
+			[
+				"nam",
+				"\"name\""
+			],
+			[
+				"buidl",
+				"\"build_systems\""
+			],
+			[
+				"fol",
+				"folder_exclude_patterns"
+			],
+			[
+				"lsp",
+				"\"LSP\""
+			],
+			[
+				"exl",
+				"folder_exclude_patterns"
+			],
+			[
+				"sett",
+				"\"settings\""
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"ren",
+				"RENDER"
+			],
+			[
+				"globla",
+				"global"
+			],
+			[
+				"render",
+				"render_quad"
+			],
+			[
+				"glad_glenb",
+				"glad_glEnableVertexAttribArray"
+			],
+			[
+				"glEnable",
+				"glEnableVertexAttribArray"
+			],
+			[
+				"GL_STATIC",
+				"GL_STATIC_DRAW"
+			],
+			[
+				"ER",
+				"ERROR_EXIT"
+			],
+			[
+				"RNDER",
+				"render_state_internal"
+			],
+			[
+				"SL",
+				"SDL2/"
+			],
+			[
+				"GL_FRONT",
+				"GL_FRONT_AND_BACK"
+			],
+			[
+				"glPO",
+				"glPolygonMode"
+			],
+			[
+				"glBind",
+				"glBindVertexArray"
+			],
+			[
+				"glClear",
+				"glClearColor"
+			],
+			[
+				"go",
+				"global"
+			],
+			[
+				"re",
+				"render.h\""
+			],
+			[
+				"inte",
+				"inttypes.h"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"SDL_event",
+				"SDL_Event"
+			],
+			[
+				"puts",
+				"puts()"
+			],
+			[
+				"geterror",
+				"SDL_GetError"
+			],
+			[
+				"SDLWINDOWPE",
+				"SDL_WINDOW_OPENGL"
+			],
+			[
+				"SDL_WINDO",
+				"SDL_WINDOWPOS_CENTERED"
+			],
+			[
+				"SDL_GL_PROFILE",
+				"SDL_GL_CONTEXT_PROFILE_CORE"
+			],
+			[
+				"profilema",
+				"SDL_GL_CONTEXT_PROFILE_MASK"
+			],
+			[
+				"tar",
+				"\"target\""
+			],
+			[
+				"name",
+				"\"name\""
+			],
+			[
+				"bui",
+				"\"build_systems\""
+			],
+			[
+				"stdio",
+				"stdio.h"
+			],
+			[
+				"ignore",
+				"ignored_packages"
+			],
+			[
+				"fil",
+				"file_config"
+			],
+			[
+				"stru",
+				"struct\tstruct"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"en",
+				"enum\tEnumeration"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"Erro",
+				"ERROR_EXIT"
+			],
+			[
+				"shell",
+				"\"shell_cmd\""
+			],
+			[
+				"na",
+				"\"name\""
+			],
+			[
+				"ter",
+				"terminus_exec"
+			],
+			[
+				"index",
+				"index_exclude_patterns"
+			],
+			[
+				"excl",
+				"file_exclude_patterns"
+			],
+			[
+				"targe",
+				"\"target\""
+			],
+			[
+				"buil",
+				"\"build_systems\""
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"build",
+				"\"build_systems\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manimVideos.sublime-project",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build LSP Cache",
+					""
+				],
+				[
+					"Build and Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Build and Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build LSP Cache",
+					""
+				],
+				[
+					"Build and Run",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Build and Run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build LSP Cache",
+					""
+				],
+				[
+					"Build and Run",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Build LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Game",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Build Game",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Build Project",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Clean",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Build Project",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Clean",
+					""
+				],
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/User/vlc.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/vlc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Project",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Build Project",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build TCC",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Build and Run TCC",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build TCC",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Build and Run TCC",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build TCC",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Build and Run TCC",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build + Rebuild LSP Cache",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				]
+			],
+			[
+				"Game: Build + Rebuild LSP Cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Game: Build",
+					""
+				],
+				[
+					"Game: Build and Run",
+					""
+				],
+				[
+					"Game: Clean",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Game: Clean",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TermiusC.sublime-build",
+					"GCC Run"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Run",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"save proje",
+				"Project: Save As"
+			],
+			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
+				"cancl",
+				"Build: Cancel"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"enable lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"open",
+				"Open Containing Folder…"
+			],
+			[
+				"ope",
+				"Open Containing Folder…"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"setting lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"all",
+				"Git: Add All"
+			],
+			[
+				"ull",
+				"Git: Pull"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"shelll",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"new buil",
+				"Build: New Build System"
+			],
+			[
+				"git all",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Graph All"
+			],
+			[
+				"git stage",
+				"Git: Diff Staged Files"
+			],
+			[
+				"save projec",
+				"Project: Save As"
+			],
+			[
+				"ipen",
+				"Snippet: Enumeration"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packages",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"set syntaglsl",
+				"Set Syntax: OpenGL SL"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"new snippet",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packagesync",
+				"PackageSync: Sync Online - Enable Syncing"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 275.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/PythonProjects"
+	],
+	"file_history":
+	[
+		"/C/Dev/PythonProjects/manimVideos/supragy.py",
+		"/C/Dev/PythonProjects/manimVideos/manimVideos.sublime-project",
+		"/C/Dev/PythonProjects/manimVideos/Makefile",
+		"/C/Dev/C++/starting_opengl/src/main.c",
+		"/C/Dev/C++/starting_opengl/src/remain.c",
+		"/C/Dev/C++/starting_opengl/src/shaders.h",
+		"/C/Dev/C++/LearnOpenGL/src/1.getting_started/2.1.hello_triangle/hello_triangle.cpp",
+		"/C/Dev/C++/starting_opengl/Makefile",
+		"/C/Dev/C++/starting_opengl/src/shaders/vertex.vert",
+		"/C/Dev/C++/starting_opengl/.gitignore",
+		"/C/Dev/C++/starting_opengl/include/GLFW/glfw3.h",
+		"/C/Dev/C++/starting_opengl/include/glad/glad.h",
+		"/C/Dev/C++/starting_opengl/src/main.cpp",
+		"/C/Users/mishr/Documents/Obsidian Vaults/notes/Computer Science/Computer Graphics/LearnOpenGL/Hello Window.md",
+		"/C/Users/mishr/Documents/Obsidian Vaults/notes/Computer Science/Computer Graphics/GLFW.md",
+		"/C/Users/mishr/Documents/Obsidian Vaults/notes/Computer Science/Computer Graphics/GLAD.md",
+		"/C/Users/mishr/Documents/Obsidian Vaults/notes/Computer Science/Computer Graphics/OpenGL.md",
+		"/C/Dev/C++/starting_opengl/starting_opengl.sublime-project",
+		"/C/Dev/C++/starting_opengl/dsrc/glfw-3.4/sbuild/GLFW.sublime-project",
+		"/C/Dev/C++/starting_opengl/doc/GLFW.md",
+		"/C/Dev/C++/starting_opengl/doc/OpenGL.md",
+		"/C/Dev/C/sdl_game/src/main.c",
+		"/C/Dev/C/sdl_game/sdl_game.sublime-project",
+		"/C/Dev/C/sdl_game/Makefile",
+		"/C/Dev/C/sdl_game/compile_commands.json",
+		"/C/Dev/C/sdl_game/src/engine/global.h",
+		"/C/Dev/C/sdl_game/src/engine/render/render_init.c",
+		"/C/Dev/C/sdl_game/src/engine/render/render_internal.h",
+		"/C/Dev/C/sdl_game/src/engine/render/render.h",
+		"/C/Dev/C/sdl_game/src/engine/render/render.c",
+		"/C/Dev/C/sdl_game/src/engine/global.c",
+		"/C/Dev/C/sdl_game/src/engine/types.h",
+		"/C/Dev/C/sdl_game/src/engine/util.h",
+		"/C/Users/mishr/AppData/Roaming/Sublime Text/Packages/User/TerminusPython.sublime-build",
+		"/C/Dev/SDL_GAMES/gcc02/src/main.c",
+		"/C/Dev/SDL_GAMES/gcc02/Makefile",
+		"/C/Dev/SDL_GAMES/gcc02/src/compile_commands.json",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/render/render.c",
+		"/C/Dev/SDL_GAMES/gcc02/shaders/default.vert",
+		"/C/Dev/SDL_GAMES/gcc02/build.bat",
+		"/C/Dev/SDL_GAMES/gcc02/config.ini",
+		"/C/Dev/SDL_GAMES/gcc02/shaders/default.frag",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/util.h",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/io/io.c",
+		"/C/Dev/SDL_GAMES/gcc02/sdl_game.sublime-project",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/Arduino-ADXL345-master/ADXL345.h",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/config/config.c",
+		"/C/Dev/SDL_GAMES/src/engine/config/config.c",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/config.h",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/input/input.c",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/input.h",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/io/io.h",
+		"/C/Dev/SDL_GAMES/gcc02/include/SDL2/SDL.h",
+		"/K/Downloads/ltdis.sh",
+		"/C/Dev/SDL_GAMES/gcc02/clean.bat",
+		"/C/Dev/SDL_GAMES/gcc02/include/SDL2/SDL_error.h",
+		"/C/Dev/SDL_GAMES/gcc02/c.bat",
+		"/C/Dev/SDL_GAMES/gcc02/.src/main.c",
+		"/C/Dev/SDL_GAMES/gcc02/src/engine/render/render_init.c",
+		"/C/Dev/C/chw/main.c",
+		"/C/Dev/C/chw/barewc.c",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/User/nitsnippet.sublime-snippet",
+		"/C/Dev/C/chw/countline.c",
+		"/K/Downloads/static",
+		"/C/MinGW/include/inttypes.h",
+		"/C/Dev/SDL_GAMES/02/.src/engine/types.h",
+		"/C/MinGW/include/stdint.h",
+		"/C/Dev/C/chw/countchars.c",
+		"/C/Dev/C/chw/In file included from main.c",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/C++/Snippets/main()-(int main).sublime-snippet",
+		"/C/Dev/C/chw/countchars",
+		"/C/Dev/C/chw/makefile",
+		"/C/Dev/C/chw/c.sublime-project",
+		"/C/Dev/C/chw/main.cc",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/C++/C Single File.sublime-build",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/User/TerminusPython.sublime-build",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/PackageSync/PackageSync.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manimVideos.sublime-project",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"selector": "meta.mapping.key punctuation.definition.string.begin - meta.setting-value.sublime-settings meta.mapping.value"
+								},
+								{
+									"selector": "- comment - punctuation.separator - punctuation.definition.string.end - constant.character.escape - invalid.illegal - punctuation.section.mapping - punctuation.section.sequence",
+									"server": "LSP-json"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///C:/dev/PythonProjects/manimVideos.sublime-project",
+							"show_definitions": false,
+							"syntax": "Packages/PackageDev/Package/Sublime Text Project/Sublime Text Project.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 354.0
+	},
+	"output.Powershell":
+	{
+		"height": 306.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 270.0
+	},
+	"output.diagnostics":
+	{
+		"height": 168.0
+	},
+	"output.exec":
+	{
+		"height": 360.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 247.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manimVideos.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"starting_opengl\\src\\main.c"
+			],
+			[
+				"make",
+				"starting_opengl\\Makefile"
+			],
+			[
+				"shade",
+				"starting_opengl\\src\\shaders.h"
+			],
+			[
+				"mak",
+				"starting_opengl\\Makefile"
+			],
+			[
+				"HEllo",
+				"Computer Graphics\\LearnOpenGL\\Hello Window.md"
+			],
+			[
+				"glfw",
+				"Computer Graphics\\GLFW.md"
+			],
+			[
+				"glad",
+				"Computer Graphics\\GLAD.md"
+			],
+			[
+				"open",
+				"Computer Graphics\\OpenGL.md"
+			],
+			[
+				"sublime",
+				"starting_opengl\\starting_opengl.sublime-project"
+			],
+			[
+				"ma",
+				"starting_opengl\\Makefile"
+			],
+			[
+				"",
+				"starting_opengl\\starting_opengl.sublime-project"
+			],
+			[
+				"sublime ",
+				"starting_opengl\\starting_opengl.sublime-project"
+			],
+			[
+				"sublie",
+				"starting_opengl\\dsrc\\glfw-3.4\\sbuild\\GLFW.sublime-project"
+			],
+			[
+				"p",
+				"doc\\OpenGL.md"
+			],
+			[
+				"sublim",
+				"sdl_game.sublime-project"
+			],
+			[
+				"subli",
+				"sdl_game.sublime-project"
+			],
+			[
+				"sub",
+				"sdl_game.sublime-project"
+			],
+			[
+				"render",
+				"src\\engine\\render\\render_internal.h"
+			],
+			[
+				"render_int",
+				"src\\engine\\render\\render_internal.h"
+			],
+			[
+				"global",
+				"src\\engine\\global.h"
+			],
+			[
+				"rende",
+				"src\\engine\\render\\render.c"
+			],
+			[
+				"ren",
+				"src\\engine\\render\\render.h"
+			],
+			[
+				"globa",
+				"src\\engine\\global.c"
+			],
+			[
+				"glo",
+				"src\\engine\\global.h"
+			],
+			[
+				"subil",
+				"sdl_game.sublime-project"
+			],
+			[
+				"config",
+				"gcc02\\config.ini"
+			],
+			[
+				"build",
+				"gcc02\\build.bat"
+			],
+			[
+				"vert",
+				"gcc02\\shaders\\default.vert"
+			],
+			[
+				"shaedr",
+				"gcc02\\shaders\\default.frag"
+			],
+			[
+				"buil",
+				"gcc02\\build.bat"
+			],
+			[
+				"io",
+				"gcc02\\src\\engine\\io\\io.c"
+			],
+			[
+				"config.c",
+				"gcc02\\src\\engine\\config\\config.c"
+			],
+			[
+				"input",
+				"gcc02\\src\\engine\\input.h"
+			],
+			[
+				"io.h",
+				"gcc02\\src\\engine\\io\\io.h"
+			],
+			[
+				".h",
+				"gcc02\\include\\SDL2\\SDL.h"
+			],
+			[
+				"util",
+				"gcc02\\src\\engine\\util.h"
+			],
+			[
+				"io.c",
+				"gcc02\\src\\engine\\io\\io.c"
+			],
+			[
+				"error",
+				"include\\SDL2\\SDL_error.h"
+			],
+			[
+				"c",
+				"c.bat"
+			],
+			[
+				"bui",
+				"build.bat"
+			],
+			[
+				"shader",
+				"shaders\\default.frag"
+			],
+			[
+				".c",
+				"barewc.c"
+			],
+			[
+				"line",
+				"countline.c"
+			],
+			[
+				"chars",
+				"countchars.c"
+			],
+			[
+				"m",
+				"main.c"
+			],
+			[
+				"pro",
+				"c.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\dev\\manimVideos\\manimVideos.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 323.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 752.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

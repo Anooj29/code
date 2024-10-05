@@ -1,0 +1,40 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems": [
+		{
+			"name": "Cairo - HIGH",
+			"target": "terminus_exec",
+			"shell_cmd": "make all QUALITY=HIGH FILE=$file_name",
+		},
+		{
+			"name": "Cairo - MID",
+			"target": "terminus_exec",
+			"shell_cmd":"make all QUALITY=MEDIUM FILE=$file_name",
+		},
+		{
+			"name": "Cairo - LOW",
+			"target": "terminus_exec",
+			"shell_cmd": "make all QUALITY=LOW FILE=$file_name",
+		},
+		{
+			"name": "OpenGL - HIGH",
+			"target": "terminus_exec",
+			"shell_cmd": "make opengl QUALITY=HIGH FILE=$file_name",
+		},
+		{
+			"name": "OpenGL - MID",
+			"target": "terminus_exec",
+			"shell_cmd":"make opengl QUALITY=MEDIUM FILE=$file_name",
+		},
+		{
+			"name": "OpenGL - LOW",
+			"target": "terminus_exec",
+			"shell_cmd": "make opengl QUALITY=LOW FILE=$file_name",
+		},
+	]
+}

@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\C\u002B\u002B\\star\\star_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA534035-3DBF-49B4-9C88-E3A9FA609147}|Second_star\\Second_star.vcxproj|C:\\Dev\\C\u002B\u002B\\star\\star_2\\Second_star\\Second_star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA534035-3DBF-49B4-9C88-E3A9FA609147}|Second_star\\Second_star.vcxproj|solutionrelative:Second_star\\Second_star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 345,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Second_star.cpp",
+              "DocumentMoniker": "C:\\Dev\\C\u002B\u002B\\star\\star_2\\Second_star\\Second_star.cpp",
+              "RelativeDocumentMoniker": "Second_star\\Second_star.cpp",
+              "ToolTip": "C:\\Dev\\C\u002B\u002B\\star\\star_2\\Second_star\\Second_star.cpp",
+              "RelativeToolTip": "Second_star\\Second_star.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T17:11:37Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
