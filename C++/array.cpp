@@ -53,16 +53,19 @@
 #include <iostream>
 int main(){
     int n;
+    std::cout<<"Enter the total number of values: \n";
     std::cin>>n;
 
     int array[n];
 
+    std::cout<<"Enter the values: \t";
     for(int i = 0 ; i < n ; i++){
         std::cin>>array[i];
     }
 
+    std::cout<<"values you entered: \n";
     for(int i = 0 ; i < n ; i++){
-        std::cout<<array[i];
+        std::cout<<array[i]<<"\n";
     }
 
     int max = 0;
@@ -79,8 +82,8 @@ int main(){
         }
     }
 
-    std::cout<<"The max is "<<max<<std::endl; 
-    std::cout<<"The min is "<<min<<std::endl; 
+    std::cout<<"\tThe max is "<<max<<std::endl; 
+    std::cout<<"\tThe min is "<<min<<std::endl; 
 
     return 0;
 
