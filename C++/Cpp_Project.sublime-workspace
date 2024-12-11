@@ -1,0 +1,1161 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"myN",
+				"myNetwork"
+			],
+			[
+				"to",
+				"to_edge"
+			],
+			[
+				"cur",
+				"curve"
+			],
+			[
+				"pixe",
+				"pixel_height"
+			],
+			[
+				"fra",
+				"frame_height"
+			],
+			[
+				"frame",
+				"frame_height"
+			],
+			[
+				"font",
+				"font_size="
+			],
+			[
+				"to_",
+				"to_edge"
+			],
+			[
+				"Title",
+				"Title_2"
+			],
+			[
+				"Til",
+				"Title_2"
+			],
+			[
+				"Tit",
+				"Title_1"
+			],
+			[
+				"Apply",
+				"ApplyWave"
+			],
+			[
+				"AddTe",
+				"AddTextLetterByLetter"
+			],
+			[
+				"Add",
+				"AddTextWordByWord"
+			],
+			[
+				"Grow",
+				"GrowFromCenter"
+			],
+			[
+				"run",
+				"runtime"
+			],
+			[
+				"p",
+				"pixel_width"
+			],
+			[
+				"Math",
+				"MathTex"
+			],
+			[
+				"GR",
+				"GREEN"
+			],
+			[
+				"Ti",
+				"Title_2"
+			],
+			[
+				"ed",
+				"to_edge"
+			],
+			[
+				"t",
+				"t1"
+			],
+			[
+				"s",
+				"stroke_width="
+			],
+			[
+				"init",
+				"initial_values"
+			],
+			[
+				"Bar",
+				"BarChart"
+			],
+			[
+				"b",
+				"background_color"
+			],
+			[
+				"LO",
+				"LOGO_BLACK"
+			],
+			[
+				"backgroun",
+				"background_color"
+			],
+			[
+				"bakgrou",
+				"background_color"
+			],
+			[
+				"pa",
+				"play"
+			],
+			[
+				"Titl",
+				"Title_1"
+			],
+			[
+				"tit",
+				"Title_1"
+			],
+			[
+				"gra",
+				"gradient"
+			],
+			[
+				"B",
+				"BLUE"
+			],
+			[
+				"rando",
+				"random_color"
+			],
+			[
+				"BL",
+				"BLUE"
+			],
+			[
+				"pixel",
+				"pixel_width"
+			],
+			[
+				"ArcB",
+				"ArcBetweenPoints"
+			],
+			[
+				"sce",
+				"Scene"
+			],
+			[
+				"frame_",
+				"frame_width"
+			],
+			[
+				"point",
+				"point5"
+			],
+			[
+				"line",
+				"line3"
+			],
+			[
+				"poi",
+				"point5"
+			],
+			[
+				"coor",
+				"coords_to_point"
+			],
+			[
+				"PI",
+				"PINK"
+			],
+			[
+				"str",
+				"stroke_color"
+			],
+			[
+				"poin",
+				"point2"
+			],
+			[
+				"para",
+				"ParametricFunction"
+			],
+			[
+				"Lamb",
+				"lambda"
+			],
+			[
+				"rect",
+				"background_rectangle"
+			],
+			[
+				"y",
+				"y_length="
+			],
+			[
+				"x_",
+				"x_range="
+			],
+			[
+				"pi",
+				"pixel_width"
+			],
+			[
+				"scen",
+				"Scene"
+			],
+			[
+				"def",
+				"defination"
+			],
+			[
+				"trans",
+				"Transform_title"
+			],
+			[
+				"transfom",
+				"Transform"
+			],
+			[
+				"tex",
+				"tex_environment="
+			],
+			[
+				"scene",
+				"Scene"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"len",
+				"Length"
+			],
+			[
+				"PURE",
+				"PURE_GREEN"
+			],
+			[
+				"OR",
+				"ORIGIN"
+			],
+			[
+				"start",
+				"START_X"
+			],
+			[
+				"brace",
+				"brace2"
+			],
+			[
+				"br",
+				"brace1"
+			],
+			[
+				"y_",
+				"y_range="
+			],
+			[
+				"Te",
+				"Text"
+			],
+			[
+				"Three",
+				"ThreeDCamera"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"manim",
+				"manimlib"
+			],
+			[
+				"Tex",
+				"Text"
+			],
+			[
+				"Tr",
+				"Transform"
+			],
+			[
+				"BLU",
+				"BLUE2"
+			],
+			[
+				"add",
+				"add_coordinates"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"Im",
+				"ImageMobject"
+			],
+			[
+				"ru",
+				"runtime"
+			],
+			[
+				"x",
+				"x_range="
+			],
+			[
+				"fr",
+				"frame_height"
+			],
+			[
+				"sin",
+				"sin_graph"
+			],
+			[
+				"st",
+				"stroke_width"
+			],
+			[
+				"si",
+				"font_size"
+			],
+			[
+				"Di",
+				"Disp_array_1"
+			],
+			[
+				"frm",
+				"frame_width"
+			],
+			[
+				"dot",
+				"dot_2"
+			],
+			[
+				"RED",
+				"RED4"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"fon",
+				"font_size="
+			],
+			[
+				"crea",
+				"Create"
+			],
+			[
+				"BACK",
+				"BackgroundRectangle"
+			],
+			[
+				"ba",
+				"background_rectangle"
+			],
+			[
+				"num",
+				"numpy"
+			],
+			[
+				"back",
+				"background_color"
+			],
+			[
+				"Do",
+				"Dot"
+			],
+			[
+				"color",
+				"color="
+			],
+			[
+				"Para",
+				"ParametricFunction"
+			],
+			[
+				"impl",
+				"ImplicitFunction"
+			],
+			[
+				"MathT",
+				"MathTex"
+			],
+			[
+				"get_co",
+				"get_corner"
+			],
+			[
+				"get",
+				"get_center"
+			],
+			[
+				"Back",
+				"BackgroundColoredVMobjectDisplayer"
+			],
+			[
+				"TransformT",
+				"transform_text"
+			],
+			[
+				"TEXt",
+				"Text"
+			],
+			[
+				"tranform",
+				"transform_text"
+			],
+			[
+				"text",
+				"text_1"
+			],
+			[
+				"transform",
+				"transform_text"
+			],
+			[
+				"tranfo",
+				"transform_text"
+			],
+			[
+				"L",
+				"LEFT"
+			],
+			[
+				"BOLD",
+				"BOLD"
+			],
+			[
+				"text_",
+				"text_1"
+			],
+			[
+				"TO",
+				"to_edge"
+			],
+			[
+				"S",
+				"Scene"
+			],
+			[
+				"Line",
+				"LineJoin"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"are",
+				"area_1"
+			],
+			[
+				"curve",
+				"curve_1"
+			],
+			[
+				"COLOR",
+				"Color"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"gree",
+				"GREEN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "array.cpp",
+			"settings":
+			{
+				"buffer_size": 1567,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Cairo - HIGH",
+					""
+				],
+				[
+					"Cairo - LOW",
+					""
+				],
+				[
+					"Cairo - MID",
+					""
+				],
+				[
+					"OpenGL - HIGH",
+					""
+				],
+				[
+					"OpenGL - LOW",
+					""
+				],
+				[
+					"OpenGL - MID",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Cairo - LOW",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Cairo - HIGH",
+					""
+				],
+				[
+					"Cairo - LOW",
+					""
+				],
+				[
+					"Cairo - MID",
+					""
+				],
+				[
+					"OpenGL - HIGH",
+					""
+				],
+				[
+					"OpenGL - LOW",
+					""
+				],
+				[
+					"OpenGL - MID",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Cairo - HIGH",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Cairo - HIGH",
+					""
+				],
+				[
+					"Cairo - LOW",
+					""
+				],
+				[
+					"Cairo - MID",
+					""
+				],
+				[
+					"OpenGL - HIGH",
+					""
+				],
+				[
+					"OpenGL - LOW",
+					""
+				],
+				[
+					"OpenGL - MID",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Cairo - LOW",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"LIST",
+				"Terminus: List Shells"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"lists",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"command",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pacake in",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacckage i",
+				"Package Control: Install Package"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				" git a",
+				"Git: Add All"
+			],
+			[
+				"git ",
+				"Git: Fetch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Anooj Dilip Archana/AppData/Roaming/Sublime Text/Packages/User/Default.sublime-commands",
+		"/C/Users/Anooj Dilip Archana/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-commands",
+		"/C/Dev/manimVideos/gitanooj.py",
+		"/C/dev/manimVideos/Al_Camera.py",
+		"/C/Dev/manimVideos/tire.py",
+		"/C/Dev/manimVideos/neural_network.py",
+		"/C/dev/manimVideos/sphere.py",
+		"/C/dev/manimVideos/F_2.py",
+		"/C/GEN1_AI/OpenSource/caffe/.gitignore",
+		"/C/Dev/manimVideos/orien_2.py",
+		"/C/dev/manimVideos/orien_1.py",
+		"/C/GEN1_AI/.gitignore",
+		"/C/dev/manimVideos/F_Tilte.py",
+		"/C/Dev/manimVideos/F_2_C.py",
+		"/C/Dev/manimVideos/F_2.py",
+		"/C/Dev/manimVideos/Al_derivative.py",
+		"/C/dev/manimVideos/Al_ChainRule.py",
+		"/C/dev/manimVideos/f_title.py",
+		"/C/Dev/manimVideos/F_Tilte(1).py",
+		"/C/dev/manimVideos/prac.py",
+		"/C/dev/manimVideos/del3.py",
+		"/C/dev/manimVideos/n_pixel.py",
+		"/C/Dev/manimVideos/C.py",
+		"/C/dev/manimVideos/practice.py",
+		"/C/dev/manimVideos/Al_integration.py",
+		"/C/dev/manimVideos/camera.py",
+		"/C/Dev/manimVideos/bar_graph.py",
+		"/C/dev/manimVideos/text.py",
+		"/C/Dev/manimVideos/F_Tilte.py",
+		"/C/dev/manimVideos/del.py",
+		"/C/Dev/.git/refs/remotes/origin/master",
+		"/C/Dev/.git/ms-persist.xml",
+		"/C/Dev/.git/index",
+		"/C/Dev/PythonProjects/.gitignore",
+		"/C/Clone/GEN1_AI/.gitignore",
+		"/C/dev/manimVideos/Al_Differentiation.py",
+		"/C/dev/manimVideos/try2.py",
+		"/C/dev/manimVideos/try.py",
+		"/C/Recovery/OEM/ResetConfig.xml",
+		"/C/Users/Anooj Dilip Archana/AppData/Roaming/Sublime Text/Installed Packages/hit&trail.py",
+		"/C/Users/Anooj Dilip Archana/AppData/Roaming/Sublime Text/Installed Packages/LSP.sublime-package",
+		"/C/dev/manimVideos/F_function.py",
+		"/C/dev/manimVideos/alpha.py",
+		"/C/Team_Alpha/Al_ChainRule.py",
+		"/C/dev/manimVideos/Al_one.py",
+		"/C/Users/Anooj Dilip Archana/Downloads/FuelConsumptionCo2 (1).csv",
+		"/C/dev/manimVideos/crazy.py",
+		"/C/dev/manimVideos/hit.py",
+		"/C/Users/Anooj Dilip Archana/AppData/Local/Programs/Python/Python311/Lib/site-packages/manim/mobject/graphing/coordinate_systems.py",
+		"/C/dev/manimVideos/sinx.py",
+		"/C/Team_Alpha/Al_integration.py",
+		"/C/dev/manimVideos/n_vobject.py",
+		"/C/dev/manimVideos/background_image.py",
+		"/C/dev/manimVideos/3D_Model.py",
+		"/C/dev/manimVideos/graph2.py",
+		"/C/dev/manimVideos/practice_2.py",
+		"/C/dev/manimVideos/text_2++.py",
+		"/C/dev/manimVideos/tree.py",
+		"/C/dev/manimVideos/n_background.py",
+		"/C/dev/manimVideos/n_vobjects.py",
+		"/C/dev/manimVideos/graph.py",
+		"/C/dev/manimVideos/New folder/mark1.py",
+		"/C/dev/manimVideos/cylinder.py",
+		"/C/dev/manimVideos/network.py",
+		"/C/dev/manimVideos/spring.py",
+		"/C/dev/manimVideos/del2.py",
+		"/C/dev/manimVideos/camera1.py",
+		"/C/dev/manimVideos/3d.py",
+		"/C/dev/manimVideos/ThreeDAxes.py",
+		"/C/dev/manimVideos/shatter.py",
+		"/C/dev/manimVideos/symmetry.py",
+		"/C/dev/manimVideos/axes.py",
+		"/C/dev/manimVideos/text_1.py",
+		"/C/dev/manimVideos/rolling.py",
+		"/C/dev/manimVideos/Integration/curve.py",
+		"/C/dev/manimVideos/par.py",
+		"/C/dev/manimVideos/new1.py",
+		"/C/Users/Anooj Dilip Archana/Desktop/text.py",
+		"/C/Users/Anooj Dilip Archana/Desktop/text_2.py",
+		"/C/dev/manimVideos/ex.py",
+		"/C/dev/manimVideos/square.py",
+		"/C/game development/hidden killer/code/hidden_killer3'.py",
+		"/C/dev/manimVideos/small_curve.py",
+		"/C/dev/manimVideos/lotus.py",
+		"/C/dev/manimVideos/Makefile",
+		"/C/dev/manimVideos/arraay.py",
+		"/C/dev/manimVideos/gra.py",
+		"/C/dev/manimVideos/manimVideos.sublime-project",
+		"/C/dev/manimVideos/animm.py",
+		"/C/dev/manimVideos/.gitignore",
+		"/C/dev/manimVideos/aieu"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "array.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"lsp_uri": "file:///C:/Dev/C%2B%2B/array.cpp",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 47.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 205.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 213.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.400001526
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "Cpp_Project.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"anim",
+				"animm.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Dev\\C++\\Cpp_Project.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
