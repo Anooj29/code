@@ -1,6 +1,9 @@
 #include <iostream>
 
-int main() {
-	std::cout << "Hello World" << std::endl;
-	return 0;
+void Log(const char* message);
+
+int main()
+{
+	Log("Hello World");
+	std::cin.get();
 }
