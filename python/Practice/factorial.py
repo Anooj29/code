@@ -1,14 +1,15 @@
 # Code to find factorial of any number
 
 num = int(input("Enter number: "))
-factorial = int 
+factorial = 1
 
 if (num < 0):
-    print("Do not enter negative number")
+    print("Negative number factorial does not exist")
+
 elif(num == 0):
     print("factorial of number is: 1")
 
-
-for i in range(1, num+1):
-    factorial = factorial * i
-    print(factorial)
+if (num > 0):
+    for i in range(1, num+1):
+        factorial = factorial * i
+print("factorial of number is: ",factorial)

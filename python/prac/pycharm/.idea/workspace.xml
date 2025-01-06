@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="222a110b-272c-49ed-bb8e-6e6fc79415bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../manimVideos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Anooj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sublime/annimation(01).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sublime/annimation(02).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sublime/lesson(01).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sublime/lesson(01).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sublime/lesson(02).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sublime/lesson(02).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sublime/square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sublime/uppercase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../v.s.code/animation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../v.s.code/pygame(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../v.s.code/pygame(3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../v.s.code/python(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../v.s.code/uppercase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../manimVideos" beforeDir="false" afterPath="$PROJECT_DIR$/../../../manimVideos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Integration/curve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curve/par.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curve/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curve/text_2+.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curve/text_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../curve/xyz.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lCBO7vDv0vueGUQBBUhfmHGHZf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Dev/Python/v.s.code/pygame(1).py"
   }
 }]]></component>
