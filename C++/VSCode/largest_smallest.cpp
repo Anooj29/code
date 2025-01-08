@@ -6,6 +6,8 @@ int main()
     int n; 
     cout << "Enter number of elements wanna enter: ";
     cin >> n;
+
+    int arr[n];
     cout << "Enter " << n << " number of elements: ";
 
     for(int i = 0 ; i < n ; i++){
@@ -21,6 +23,6 @@ int main()
             arr[i] = smallest;
         }
     }
-    cout << "largest" << largest << endl;
-    cout << "smallest" << smallest << endl;
+    cout << "largest:- " << largest << endl;
+    cout << "smallest:- " << smallest << endl;
 }
