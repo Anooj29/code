@@ -1,124 +1,138 @@
 #include <iostream>
-#include <vector>
 #include <string>
+
 using namespace std;
 
-// Structure to represent a book
-struct Book {
-    int id;
+class Song {
+public:
     string title;
-    string author;
-    int year;
+    Song* prev;
+    Song* next;
+    Song(string t) : title(t), prev(nullptr), next(nullptr) {}
 };
 
-// Class to manage the library
-class Library {
+class Playlist {
 private:
-    vector<Book> books;
-    int next_id;
+    Song* head;
+    Song* tail;
+    Song* current;
 
 public:
-    Library() : next_id(1) {}
+    Playlist() : head(nullptr), tail(nullptr), current(nullptr) {}
 
-    // Add a new book to the library
-    void addBook(const string &title, const string &author, int year) {
-        books.push_back({next_id++, title, author, year});
-        cout << "Book added successfully!\n";
+    void addSong(const string& title) {
+        Song* newSong = new Song(title);
+        if (!head) {
+            head = tail = current = newSong;
+        } else {
+            tail->next = newSong;
+            newSong->prev = tail;
+            tail = newSong;
+        }
+        cout << "Added: " << title << endl;
     }
 
-    // Display all books in the library
-    void displayBooks() const {
-        if (books.empty()) {
-            cout << "No books in the library.\n";
+    void removeSong(const string& title) {
+        Song* temp = head;
+        while (temp) {
+            if (temp->title == title) {
+                if (temp == head) {
+                    head = head->next;
+                    if (head) head->prev = nullptr;
+                } else if (temp == tail) {
+                    tail = tail->prev;
+                    tail->next = nullptr;
+                } else {
+                    temp->prev->next = temp->next;
+                    temp->next->prev = temp->prev;
+                }
+                delete temp;
+                cout << "Removed: " << title << endl;
+                return;
+            }
+            temp = temp->next;
+        }
+        cout << "Song not found!" << endl;
+    }
+
+    void moveSong(const string& title, int newPos) {
+        Song* temp = head;
+        int pos = 1;
+        while (temp && temp->title != title) {
+            temp = temp->next;
+            pos++;
+        }
+        if (!temp) {
+            cout << "Song not found!" << endl;
             return;
         }
+        if (temp == head) {
+            head = head->next;
+            if (head) head->prev = nullptr;
+        } else if (temp == tail) {
+            tail = tail->prev;
+            tail->next = nullptr;
+        } else {
+            temp->prev->next = temp->next;
+            temp->next->prev = temp->prev;
+        }
+        Song* target = head;
+        for (int i = 1; i < newPos - 1 && target->next; i++) {
+            target = target->next;
+        }
+        temp->next = target->next;
+        if (target->next) target->next->prev = temp;
+        target->next = temp;
+        temp->prev = target;
+        if (!temp->next) tail = temp;
+        cout << "Moved: " << title << " to position " << newPos << endl;
+    }
 
-        cout << "\nBooks in the Library:\n";
-        for (const auto &book : books) {
-            cout << "ID: " << book.id << ", Title: " << book.title
-                 << ", Author: " << book.author << ", Year: " << book.year << endl;
+    void playNext() {
+        if (current && current->next) {
+            current = current->next;
+            cout << "Now playing: " << current->title << endl;
+        } else {
+            cout << "End of playlist!" << endl;
         }
     }
 
-    // Search for a book by title
-    void searchBookByTitle(const string &title) const {
-        for (const auto &book : books) {
-            if (book.title == title) {
-                cout << "\nBook Found:\n";
-                cout << "ID: " << book.id << ", Title: " << book.title
-                     << ", Author: " << book.author << ", Year: " << book.year << endl;
-                return;
-            }
+    void playPrev() {
+        if (current && current->prev) {
+            current = current->prev;
+            cout << "Now playing: " << current->title << endl;
+        } else {
+            cout << "Start of playlist!" << endl;
         }
-        cout << "\nBook not found.\n";
     }
 
-    // Delete a book by ID
-    void deleteBookById(int id) {
-        for (auto it = books.begin(); it != books.end(); ++it) {
-            if (it->id == id) {
-                books.erase(it);
-                cout << "Book deleted successfully!\n";
-                return;
-            }
+    void display() const {
+        if (!head) {
+            cout << "Playlist is empty!" << endl;
+            return;
         }
-        cout << "Book with ID " << id << " not found.\n";
+        Song* temp = head;
+        while (temp) {
+            cout << temp->title << " <-> ";
+            temp = temp->next;
+        }
+        cout << "END" << endl;
     }
 };
 
 int main() {
-    Library library;
-    int choice;
-
-    do {
-        cout << "\nLibrary Management System\n";
-        cout << "1. Add Book\n";
-        cout << "2. Display Books\n";
-        cout << "3. Search Book by Title\n";
-        cout << "4. Delete Book by ID\n";
-        cout << "5. Exit\n";
-        cout << "Enter your choice: ";
-        cin >> choice;
-
-        switch (choice) {
-        case 1: {
-            cin.ignore(); // Clear input buffer
-            string title, author;
-            int year;
-            cout << "Enter book title: ";
-            getline(cin, title);
-            cout << "Enter book author: ";
-            getline(cin, author);
-            cout << "Enter publication year: ";
-            cin >> year;
-            library.addBook(title, author, year);
-            break;
-        }
-        case 2:
-            library.displayBooks();
-            break;
-        case 3: {
-            cin.ignore(); // Clear input buffer
-            string title;
-            cout << "Enter book title to search: ";
-            getline(cin, title);
-            library.searchBookByTitle(title);
-            break;
-        }
-        case 4: {
-            int id;
-            cout << "Enter book ID to delete: ";
-            cin >> id;
-            library.deleteBookById(id);
-            break;
-        }
-        case 5:
-            cout << "Exiting...\n";
-            break;
-        default:
-            cout << "Invalid choice. Try again.\n";
-        }
-    } while (choice != 5);
-
+    Playlist playlist;
+    playlist.addSong("Song A");
+    playlist.addSong("Song B");
+    playlist.addSong("Song C");
+    playlist.addSong("Song D");
+    playlist.display();
+    playlist.playNext();
+    playlist.playNext();
+    playlist.playPrev();
+    playlist.moveSong("Song B", 3);
+    playlist.display();
+    playlist.removeSong("Song C");
+    playlist.display();
     return 0;
 }
